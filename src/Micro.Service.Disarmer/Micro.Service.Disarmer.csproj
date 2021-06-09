@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+	  <Description>Service proxy abstraction that contains the Disarmer implementations</Description>
+	  <Version>1.0.3</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Micro.Service.Base\Micro.Service.Base.csproj" />
+  </ItemGroup>
+
+</Project>

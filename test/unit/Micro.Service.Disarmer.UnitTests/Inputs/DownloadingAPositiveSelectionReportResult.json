@@ -1,0 +1,50 @@
+{
+  "id": "0bafef86-41e0-4ccc-a69f-00b812cb5602",
+  "relativePath": "",
+  "originalFileName": "bar.json",
+  "sanitizedFileName": "bar.json",
+  "originalSize": 450,
+  "sanitizedSize": 0,
+  "originalPublishStatus": 0,
+  "sanitizedPublishStatus": 0,
+  "fileType": {
+    "code": 125,
+    "type": "Unknown Text",
+    "family": "Unknown Text Files"
+  },
+  "queueTime": "00:00:00",
+  "processStartTime": "2020-07-13T09:33:51.8399432Z",
+  "processEndTime": "2020-07-13T09:33:56.855111Z",
+  "status": "OK",
+  "events": [
+    {
+      "date": "0001-01-01T00:00:00",
+      "id": 10020100,
+      "name": "File Uploaded",
+      "message": "File bar.json upload for sanitization started. Item Id: 0bafef86-41e0-4ccc-a69f-00b812cb5602",
+      "severity": 2,
+      "category": 10000000,
+      "subCategory": 10020000
+    }
+  ],
+  "children": [],
+  "hash": "d598b34dc6d5e1556a00ff9df852f390fef6bc9a390ca744f12cd88ee89299f7",
+  "extendedInfo": {
+    "email": {
+      "headers": [],
+      "from": {
+        "address": null,
+        "displayName": null
+      },
+      "to": [],
+      "envelopeRecipients": [],
+      "cc": [],
+      "bcc": [],
+      "subject": null,
+      "body": null,
+      "date": "2020-07-13T13:08:08.1473082+00:00",
+      "attachments": [],
+      "embeddedResources": []
+    }
+  }
+}
